@@ -7,6 +7,9 @@ public static void main(String arg[]) {
 	for(int k=1;k<=n;k++) {
 		int fact=1;
 		
+		
+		
+		
 		for(int i=k;i>=1;i--)
 		{
 		fact=fact*i;
